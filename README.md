@@ -3,7 +3,7 @@
 ## What is it about?
 Task Tracker is a website that is done with React.JS
 The website allows users to add a task into their to-do list where they are asked for the title of the task, the day and time and they have an option to set a reminder which is represented by a green left border.
-When the user adds a task, they have the option to view its details which will show the details independtely from other tasks.
+When the user adds a task, they have the option to view its details which will show the details independently from other tasks.
 They can also delete the task permanently.
 When the user adds a task, its information will be stored in a JSON file called `db.json` so that when the website refreshes or closes, the tasks can still be there. Same with the delete button where it deletes the task from the JSON file.
 
