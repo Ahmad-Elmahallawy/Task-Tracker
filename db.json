@@ -1,16 +1,16 @@
 {
   "tasks": [
     {
-      "text": "Wake up",
-      "day": "Saturday 8 AM",
-      "reminder": false,
-      "id": 1
-    },
-    {
       "text": "Go To The Gym",
       "day": "Saturday 9 AM",
       "reminder": true,
       "id": 2
+    },
+    {
+      "text": "Eat Lunch",
+      "day": "Sunday 2 PM",
+      "reminder": false,
+      "id": 3
     }
   ]
 }
