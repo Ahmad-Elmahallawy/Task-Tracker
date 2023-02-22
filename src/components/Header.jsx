@@ -5,7 +5,6 @@ import Button from "./Button";
 // an alternative is to pass any variable the will
 // be an object then do variable.title
 const Header = ({ title }) => {
-
   const onClick = () => {
     console.log("click");
   };
